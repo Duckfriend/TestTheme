@@ -161,9 +161,9 @@
   color: #afafff!important;
 }
 .avatar-large {
-    width: 70px;
-    height: 70px;
-    background-size: 70px 70px;
+    width: 50px;
+    height: 50px;
+    background-size: 50px 50px;
     border-radius: 10px;
 }
 .theme-dark .chat .has-more button {
@@ -1878,10 +1878,10 @@ voice-connection-popout hr {
     opacity: 0.9;
 }
 #bd-ps-body table tr:nth-child(odd):hover {
-    background-color: #8282ff;
+    background-color: #67676b;
 }
 #bd-ps-body table tr:hover {
-    background-color: #8282ff;
+    background-color: #67676b;
 }
 #bd-customcss-attach-controls {
     border: 1px solid #afafff;
