@@ -1884,14 +1884,14 @@ voice-connection-popout hr {
     background-color: #67676b;
 }
 #bd-customcss-attach-controls {
-    border: 1px solid #afafff;
-    border-top: 1px solid #afafff;
+    border: 1px solid #67676b;
+    border-top: 1px solid #67676b;
 }
 #bd-customcss-attach-controls, #bd-customcss-detach-controls {
     background: rgba(2, 0, 0, 0.45);
 }
 #bd-customcss-detach-container #bd-customcss-detach-controls-buttons button {
-    background-color: #afafff;
+    background-color: #67676b;
     color: #FDFDFD;
 }
 #bd-customcss-attach-controls, #bd-customcss-detach-controls {
