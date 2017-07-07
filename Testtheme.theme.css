@@ -137,7 +137,7 @@
 .theme-dark .messages-wrapper .messages .message-group .comment .markup .highlight:hover {
     background-color: rgba(221, 67, 67, 0);
     text-decoration: underline;
-    color: #8282ff !important;
+    color: #000000 !important;
 }
 .chat>.content .messages .message-group h2 .user-name {
     color: rgba(255, 255, 255, 0.8);
