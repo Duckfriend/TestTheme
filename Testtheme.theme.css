@@ -1576,11 +1576,11 @@ voice-connection-popout hr {
     background-color: #afafff;
 }
 .scroller-wrap .scroller::-webkit-scrollbar-thumb {
-    background-color: #afafff!important;
+    background-color: #000000!important;
     border: 3px solid rgba(211, 5, 5, 0) !important;
 }
 .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
-    background-color: #afafff!important;
+    background-color: #000000!important;
     border: 3px solid rgba(211, 5, 5, 0) !important;
 }
 .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
